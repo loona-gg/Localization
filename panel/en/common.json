@@ -17,7 +17,24 @@
         "edit": "Edit",
         "profile": "Profile",
         "support": "Support",
-        "shortcuts": "Shortcuts"
+        "shortcuts": "Shortcuts",
+        "home": "Home",
+        "node": "Node",
+        "nodes": "Nodes",
+        "user": "User",
+        "users": "Users",
+        "ticket": "Ticket",
+        "marketplace": "Marketplace",
+        "eggsp": "Eggs+",
+        "egg": "Egg",
+        "eggs": "Eggs",
+        "plugin": "Plugin",
+        "plugins": "Plugins",
+        "live_chat": "Live Chat",
+        "domain": "Domain",
+        "domains": "Domains",
+        "addon": "Addon",
+        "addons": "Addons"
     },
     "demo": {
         "demo_site": "This is a demo site. You may encounter bugs and missing features. If you have questions or need support, join our"
@@ -30,6 +47,9 @@
         "total_nodes": "Total Nodes",
         "total_tickets": "Total Tickets",
         "recent_activity": "Recent Activity",
-        "no_recent_activity": "No recent activity"
+        "no_recent_activity": "No recent activity",
+        "management": "Management",
+        "site_settings": "Site Settings",
+        "migration": "Migration"
     }
 }
