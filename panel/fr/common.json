@@ -1,0 +1,33 @@
+{
+    "common": {
+        "dashboard": "Dashboard",
+        "your_servers": "Vos serveurs",
+        "server": "Serveur",
+        "servers": "Serveurs",
+        "changelog": "Journal des modifications",
+        "tickets": "Billets",
+        "email": "Email",
+        "new_server": "Nouveau serveur",
+        "notifications": "Notifications",
+        "view_all": "Voir tous",
+        "admin": "Admin",
+        "settings": "Réglages",
+        "logout": "Se déconnecter",
+        "view": "Vue",
+        "edit": "Edit",
+        "profile": "Profil"
+    },
+    "demo": {
+        "demo_site": "Ceci est un site de démonstration. Vous pouvez rencontrer des bugs et des fonctionnalités manquantes. Si vous avez des questions ou avez besoin de soutien, rejoignez-nous"
+    },
+    "admin": {
+        "nodes_aag": "Présentation du nœud",
+        "welcome_back": "Bienvenue de retour",
+        "total_servers": "Total des serveurs",
+        "total_users": "Total des utilisateurs",
+        "total_nodes": "Total des nœuds",
+        "total_tickets": "Total des billets",
+        "recent_activity": "Activité récente",
+        "no_recent_activity": "Aucune activité récente"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common": {
+        "dashboard": "Dashboard",
+        "your_servers": "Your Servers",
+        "server": "Server",
+        "servers": "Servers",
+        "changelog": "Changelog",
+        "tickets": "Tickets",
+        "email": "Email",
+        "new_server": "New Server",
+        "notifications": "Notifications",
+        "view_all": "View all",
+        "admin": "Admin",
+        "settings": "Settings",
+        "logout": "Logout",
+        "view": "View",
+        "edit": "Edit",
+        "profile": "Profile"
+    },
+    "demo": {
+        "demo_site": "This is a demo site. You may encounter bugs and missing features. If you have questions or need support, join our"
+    },
+    "admin": {
+        "nodes_aag": "Nodes At-A-Glance",
+        "welcome_back": "Welcome back",
+        "total_servers": "Total Servers",
+        "total_users": "Total Users",
+        "total_nodes": "Total Nodes",
+        "total_tickets": "Total Tickets",
+        "recent_activity": "Recent Activity",
+        "no_recent_activity": "No recent activity"
+    }
+}
