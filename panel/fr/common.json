@@ -15,7 +15,9 @@
         "logout": "Se déconnecter",
         "view": "Vue",
         "edit": "Edit",
-        "profile": "Profil"
+        "profile": "Profil",
+        "support": "Support",
+        "shortcuts": "Raccourcis"
     },
     "demo": {
         "demo_site": "Ceci est un site de démonstration. Vous pouvez rencontrer des bugs et des fonctionnalités manquantes. Si vous avez des questions ou avez besoin de soutien, rejoignez-nous"

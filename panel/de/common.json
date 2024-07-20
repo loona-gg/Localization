@@ -15,7 +15,9 @@
         "logout": "Logout",
         "view": "Anzeigen",
         "edit": "Bearbeiten",
-        "profile": "Profil"
+        "profile": "Profil",
+        "support": "Support",
+        "Shortcuts": "Shortcuts"
     },
     "demo": {
         "demo_site": "Das ist eine Demo-Website. Es können Fehler auftreten und Features fehlen. Wenn du Fragen hast oder Unterstützung brauchst, tritt unserem"
