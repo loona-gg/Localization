@@ -1,5 +1,3 @@
 bundles:
   - 2
-files:
-  - source: /panel/**/*.json
-    translation: /panel/%two_letters_code%/t_%original_file_name%
+files: []
