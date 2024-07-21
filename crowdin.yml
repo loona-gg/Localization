@@ -1,5 +1,7 @@
 bundles:
   - 2
 files:
-  - source: /panel/**/*.json
+  - source: '*'
+    ignore:
+      - '*'
     translation: /panel/%two_letters_code%/%original_file_name%
