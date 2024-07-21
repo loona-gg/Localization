@@ -1,0 +1,378 @@
+[
+    {
+        "identifier": "common.dashboard",
+        "source_string": "Dashboard",
+        "translation": "Dashboard",
+        "context": "common -> dashboard",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.your_servers",
+        "source_string": "Your Servers",
+        "translation": "Your Servers",
+        "context": "common -> your_servers",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.server",
+        "source_string": "Server",
+        "translation": "Server",
+        "context": "common -> server",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.servers",
+        "source_string": "Servers",
+        "translation": "Servers",
+        "context": "common -> servers",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.changelog",
+        "source_string": "Changelog",
+        "translation": "Changelog",
+        "context": "common -> changelog",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.tickets",
+        "source_string": "Tickets",
+        "translation": "Tickets",
+        "context": "common -> tickets",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.email",
+        "source_string": "Email",
+        "translation": "Email",
+        "context": "common -> email",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.new_server",
+        "source_string": "New Server",
+        "translation": "New Server",
+        "context": "common -> new_server",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.notifications",
+        "source_string": "Notifications",
+        "translation": "Notifications",
+        "context": "common -> notifications",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.view_all",
+        "source_string": "View all",
+        "translation": "View all",
+        "context": "common -> view_all",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.admin",
+        "source_string": "Admin",
+        "translation": "Admin",
+        "context": "common -> admin",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.settings",
+        "source_string": "Settings",
+        "translation": "Settings",
+        "context": "common -> settings",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.logout",
+        "source_string": "Logout",
+        "translation": "Logout",
+        "context": "common -> logout",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.view",
+        "source_string": "View",
+        "translation": "View",
+        "context": "common -> view",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.edit",
+        "source_string": "Edit",
+        "translation": "Edit",
+        "context": "common -> edit",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.profile",
+        "source_string": "Profile",
+        "translation": "Profile",
+        "context": "common -> profile",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.support",
+        "source_string": "Support",
+        "translation": "Support",
+        "context": "common -> support",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.shortcuts",
+        "source_string": "Shortcuts",
+        "translation": "Shortcuts",
+        "context": "common -> shortcuts",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.home",
+        "source_string": "Home",
+        "translation": "Home",
+        "context": "common -> home",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.node",
+        "source_string": "Node",
+        "translation": "Node",
+        "context": "common -> node",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.nodes",
+        "source_string": "Nodes",
+        "translation": "Nodes",
+        "context": "common -> nodes",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.user",
+        "source_string": "User",
+        "translation": "User",
+        "context": "common -> user",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.users",
+        "source_string": "Users",
+        "translation": "Users",
+        "context": "common -> users",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.ticket",
+        "source_string": "Ticket",
+        "translation": "Ticket",
+        "context": "common -> ticket",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.marketplace",
+        "source_string": "Marketplace",
+        "translation": "Marketplace",
+        "context": "common -> marketplace",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.eggsp",
+        "source_string": "Eggs+",
+        "translation": "Eggs+",
+        "context": "common -> eggsp",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.egg",
+        "source_string": "Egg",
+        "translation": "Egg",
+        "context": "common -> egg",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.eggs",
+        "source_string": "Eggs",
+        "translation": "Eggs",
+        "context": "common -> eggs",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.plugin",
+        "source_string": "Plugin",
+        "translation": "Plugin",
+        "context": "common -> plugin",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.plugins",
+        "source_string": "Plugins",
+        "translation": "Plugins",
+        "context": "common -> plugins",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.live_chat",
+        "source_string": "Live Chat",
+        "translation": "Live Chat",
+        "context": "common -> live_chat",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.domain",
+        "source_string": "Domain",
+        "translation": "Domain",
+        "context": "common -> domain",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.domains",
+        "source_string": "Domains",
+        "translation": "Domains",
+        "context": "common -> domains",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.addon",
+        "source_string": "Addon",
+        "translation": "Addon",
+        "context": "common -> addon",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "common.addons",
+        "source_string": "Addons",
+        "translation": "Addons",
+        "context": "common -> addons",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "demo.demo_site",
+        "source_string": "This is a demo site. You may encounter bugs and missing features. If you have questions or need support, join our",
+        "translation": "This is a demo site. You may encounter bugs and missing features. If you have questions or need support, join our",
+        "context": "demo -> demo_site",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.nodes_aag",
+        "source_string": "Nodes At-A-Glance",
+        "translation": "Nodes At-A-Glance",
+        "context": "admin -> nodes_aag",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.welcome_back",
+        "source_string": "Welcome back",
+        "translation": "Welcome back",
+        "context": "admin -> welcome_back",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.total_servers",
+        "source_string": "Total Servers",
+        "translation": "Total Servers",
+        "context": "admin -> total_servers",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.total_users",
+        "source_string": "Total Users",
+        "translation": "Total Users",
+        "context": "admin -> total_users",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.total_nodes",
+        "source_string": "Total Nodes",
+        "translation": "Total Nodes",
+        "context": "admin -> total_nodes",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.total_tickets",
+        "source_string": "Total Tickets",
+        "translation": "Total Tickets",
+        "context": "admin -> total_tickets",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.recent_activity",
+        "source_string": "Recent Activity",
+        "translation": "Recent Activity",
+        "context": "admin -> recent_activity",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.no_recent_activity",
+        "source_string": "No recent activity",
+        "translation": "No recent activity",
+        "context": "admin -> no_recent_activity",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.management",
+        "source_string": "Management",
+        "translation": "Management",
+        "context": "admin -> management",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.site_settings",
+        "source_string": "Site Settings",
+        "translation": "Site Settings",
+        "context": "admin -> site_settings",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "admin.migration",
+        "source_string": "Migration",
+        "translation": "Migration",
+        "context": "admin -> migration",
+        "labels": null,
+        "max_length": null
+    }
+]
